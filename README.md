@@ -3,9 +3,7 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Examples](#examples)
 * [Technologies](#technologies)
-* [Usage](#usage)
 * [Limitations](#limitations)
 
 ## Overview
