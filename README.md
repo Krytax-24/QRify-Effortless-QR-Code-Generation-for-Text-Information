@@ -12,10 +12,10 @@ This is a program that takes text from a textbox and automatically converts it i
 
 ## Screenshots
 Homepage:
-![Alt text](https://drive.google.com/uc?export=view&id=1WPmbdeg-Ko-itLdpvrTrN88OLNCTylGn)
+![homepage](https://drive.google.com/uc?export=view&id=1WPmbdeg-Ko-itLdpvrTrN88OLNCTylGn)
 
 Example:
-![Alt text](https://drive.google.com/uc?export=view&id=1BpCTIwQu_9C77L_-Hgl-0NQNmVV-Faip)
+![example](https://drive.google.com/uc?export=view&id=1BpCTIwQu_9C77L_-Hgl-0NQNmVV-Faip)
 
 ## Technologies
 - **HTML / CSS**
