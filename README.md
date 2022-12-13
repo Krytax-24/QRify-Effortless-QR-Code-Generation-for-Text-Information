@@ -3,11 +3,16 @@
 
 ## Table of contents
 * [Overview](#overview)
+* [Screenshots](#screenshot)
 * [Technologies](#technologies)
 * [Limitations](#limitations)
 
 ## Overview
 This is a program that takes text from a textbox and automatically converts it into a Qr-code that contains the information of the text.
+
+## Screenshots
+Homepage:
+![Alt text](https://drive.google.com/file/d/1WPmbdeg-Ko-itLdpvrTrN88OLNCTylGn/view?usp=sharing)
 
 ## Technologies
 - **HTML / CSS**
