@@ -1,4 +1,4 @@
-# Qr-Code-generator
+# QRify: Effortless QR Code Generation for Text Information
 ![](styles/favicon.PNG)
 
 ## Table of contents
