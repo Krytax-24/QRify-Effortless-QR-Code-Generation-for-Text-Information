@@ -1,12 +1,12 @@
 @font-face {
     font-family: daisy;
-    src: url('fonts/paperdaisy-demo.ttf')
+    src: url('./fonts/paperdaisy-demo.ttf')
 }
 
 @font-face {
     font-family: daisy;
     font-weight: bold;
-    src: url('fonts/paperdaisy-demo.ttf')
+    src: url('./fonts/paperdaisy-demo.ttf')
 }
 
 body {
