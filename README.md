@@ -10,6 +10,8 @@
 ## Overview
 This is a program that takes text from a textbox and automatically converts it into a Qr-code that contains the information of the text.
 
+Try it Yourself - [ORify](https://krytax-24.github.io/QRify-Effortless-QR-Code-Generation-for-Text-Information/)
+
 ## Screenshots
 Homepage:
 ![homepage](https://drive.google.com/uc?export=view&id=1WPmbdeg-Ko-itLdpvrTrN88OLNCTylGn)
